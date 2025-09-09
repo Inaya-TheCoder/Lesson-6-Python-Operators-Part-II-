@@ -8,4 +8,4 @@ else:
 if b!=c:
   print (b,"Is Not Equl To",c)
 else:
- print (b,"Is Equal To",c)
+ print (b,"Is Equal To",c)wwwwwww
